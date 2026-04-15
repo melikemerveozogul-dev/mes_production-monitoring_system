@@ -1,2 +1,7 @@
-# mes_production-monitoring_system
-A real-time Manufacturing Execution Systems (MES) simulation built with Python. This project processes the AI4I 2020 Predictive Maintenance Dataset to monitor production lines, detect machine failures instantly, and generate shift performance reports (OEE)
+🏭 Real-Time MES Production Monitoring System
+This project is a comprehensive **Manufacturing Execution System (MES)** simulation developed with Python.
+🚀 Key Features
+- **Live Monitoring:** Simulates real-time sensor data tracking.
+- **Smart Alerts:** Instant "Machine Failure" detection.
+- **Performance Analytics:** Automatically calculates efficiency scores (OEE).
+*Developed by Melike Merve - MES/IYSO Student*
